@@ -22,7 +22,7 @@ pod 'StToast'
 
 ## Author
 
-neelpurohit, 107862397+neelpurohit-sgit@users.noreply.github.com
+  sahilshaligram, 126651068+sahilshaligram@users.noreply.github.com
 
 ## License
 
