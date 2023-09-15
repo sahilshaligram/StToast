@@ -6,10 +6,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/StToast.svg?style=flat)](https://cocoapods.org/pods/StToast)
 
 ## Example
-
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
 
 ## Installation
 
@@ -20,9 +17,12 @@ it, simply add the following line to your Podfile:
 pod 'StToast'
 ```
 
+## New release notes
+- Added images according to the toast types with hearbeat(pulse) animation for easy UI understanding.
+
 ## Author
 
-  sahilshaligram, 126651068+sahilshaligram@users.noreply.github.com
+sahilshaligram, 126651068+sahilshaligram@users.noreply.github.com
 
 ## License
 

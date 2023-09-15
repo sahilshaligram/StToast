@@ -1,0 +1,58 @@
+{
+  "" : {
+    "diagnostics" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StToast-master.dia",
+    "emit-module-dependencies" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StToast-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StToast-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StToast-master.swiftdeps"
+  },
+  "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/sahilthaker/Projects/Libs/StToast/StToast/Classes/Enum.swift" : {
+    "const-values" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Enum.swiftconstvalues",
+    "dependencies" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Enum.d",
+    "diagnostics" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Enum.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Enum.o",
+    "llvm-bc" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Enum.bc",
+    "object" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Enum.o",
+    "swift-dependencies" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Enum.swiftdeps",
+    "swiftmodule" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Enum~partial.swiftmodule"
+  },
+  "/Users/sahilthaker/Projects/Libs/StToast/StToast/Classes/Extensions.swift" : {
+    "const-values" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Extensions.swiftconstvalues",
+    "dependencies" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Extensions.d",
+    "diagnostics" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Extensions.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Extensions.o",
+    "llvm-bc" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Extensions.bc",
+    "object" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Extensions.o",
+    "swift-dependencies" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Extensions.swiftdeps",
+    "swiftmodule" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/Extensions~partial.swiftmodule"
+  },
+  "/Users/sahilthaker/Projects/Libs/StToast/StToast/Classes/StCustomToast.swift" : {
+    "const-values" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StCustomToast.swiftconstvalues",
+    "dependencies" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StCustomToast.d",
+    "diagnostics" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StCustomToast.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StCustomToast.o",
+    "llvm-bc" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StCustomToast.bc",
+    "object" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StCustomToast.o",
+    "swift-dependencies" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StCustomToast.swiftdeps",
+    "swiftmodule" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StCustomToast~partial.swiftmodule"
+  },
+  "/Users/sahilthaker/Projects/Libs/StToast/StToastView.swift" : {
+    "const-values" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StToastView.swiftconstvalues",
+    "dependencies" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StToastView.d",
+    "diagnostics" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StToastView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StToastView.o",
+    "llvm-bc" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StToastView.bc",
+    "object" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StToastView.o",
+    "swift-dependencies" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StToastView.swiftdeps",
+    "swiftmodule" : "/Users/sahilthaker/Projects/Libs/StToast/Example/build/Pods.build/Debug-iphonesimulator/StToast.build/Objects-normal/arm64/StToastView~partial.swiftmodule"
+  }
+}

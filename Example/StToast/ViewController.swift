@@ -29,9 +29,10 @@ class ViewController: UIViewController {
             backgroundColor: .black,
             textColor: .white,
             borderColor: .systemPurple,
-            type: .warning,
+            type: .error,
             position: .top,
-            delay: 1.5
+            delay: 1.5,
+            addImage: true
         ).show()
     }
 

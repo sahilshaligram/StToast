@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'StToast'
-  s.version          = '0.1.0'
+  s.version          = '0.1.2'
   s.summary          = 'Custom toast message with 3 default types'
 
 # This description is used to generate tags and improve search results.
@@ -31,9 +31,9 @@ Pod::Spec.new do |s|
   s.source_files = 'StToast/Classes/**/*'
   s.exclude_files  = 'StToast/Classes/*.plist'
   
-  # s.resource_bundles = {
-  #   'StToast' => ['StToast/Assets/*.png']
-  # }
+  s.resource_bundles = {
+    'StToast' => ['StToast/Assets/*']
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
