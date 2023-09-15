@@ -1,0 +1,6 @@
+framework module StToast {
+  umbrella header "StToast-umbrella.h"
+
+  export *
+  module * { export * }
+}
