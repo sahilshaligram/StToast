@@ -16,7 +16,7 @@
 		6B8CD2A16FD80745FC651057B34ABD9D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		6D9994D720205102E9B2CAB1C0887C0B /* StToast-StToast in Resources */ = {isa = PBXBuildFile; fileRef = F965E1A042FFA2A78BFDE054E7E30607 /* StToast-StToast */; };
 		8513044C0D1A39292D027C8212616720 /* Pods-StToast_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CD22E726FF2E7AE4A48DA5A2BC51D853 /* Pods-StToast_Example-dummy.m */; };
-		935255112BCE753F00CAA6DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D553A5CD5FFD205C5006E2E8EE013011 /* Assets.xcassets */; };
+		935255132BCE913800CAA6DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D553A5CD5FFD205C5006E2E8EE013011 /* Assets.xcassets */; };
 		95C731C56DF269B68135D60625FA5329 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D553A5CD5FFD205C5006E2E8EE013011 /* Assets.xcassets */; };
 		9E991AF52520D890380EDC64E6E07756 /* Pods-StToast_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AF5775CF1BA6461418ECEE1C8F09F18 /* Pods-StToast_Tests-dummy.m */; };
 		AA88B01B795265DBB3F505D6E750E4B7 /* StToastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EDB70189FBB695FE90708BC121BB8EB /* StToastView.swift */; };
@@ -401,7 +401,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				935255112BCE753F00CAA6DC /* Assets.xcassets in Resources */,
+				935255132BCE913800CAA6DC /* Assets.xcassets in Resources */,
 				6D9994D720205102E9B2CAB1C0887C0B /* StToast-StToast in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
