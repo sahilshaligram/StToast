@@ -14,17 +14,6 @@ public enum ToastType {
         }
     }
     
-    var image: UIImage {
-        switch self {
-        case .success:
-            return UIImage(named: "ic_success") ?? UIImage()
-        case .error:
-            return UIImage(named: "ic_error") ?? UIImage()
-        case .warning:
-            return UIImage(named: "ic_warning") ?? UIImage()
-        }
-    }
-    
     var title: String {
         switch self {
         case .success:

@@ -17,19 +17,17 @@ public class StCustomToast {
     var containerLeading: NSLayoutConstraint!
     var containerTrailing: NSLayoutConstraint!
     var containerHeight: NSLayoutConstraint!
-    let isImage: Bool!
     
     
     //MARK: - Initialize the class -
-    public init(controller: UIViewController!, msg: String!, font: UIFont? = .systemFont(ofSize: 18), backgroundColor: UIColor? = .clear, textColor: UIColor? = .systemRed, borderColor: UIColor? = .systemRed, type: ToastType? = .error, position: ToastPosition? = .top, delay: TimeInterval? = 1, addImage: Bool = false) {
+    public init(controller: UIViewController!, msg: String!, font: UIFont? = .systemFont(ofSize: 18), backgroundColor: UIColor? = .clear, textColor: UIColor? = .systemRed, borderColor: UIColor? = .systemRed, type: ToastType? = .error, position: ToastPosition? = .top, delay: TimeInterval? = 1) {
         self.controller = controller
         self.type = type
         self.position = position
         self.backgroundColor = backgroundColor == .systemRed ? type?.bgColor : backgroundColor
         self.borderColor = borderColor == .systemRed ? type?.bgColor : borderColor
         self.delay = delay
-        self.isImage = addImage
-        toast = ToastView(msg: msg, font: font, textColor: textColor == .systemRed ? type?.bgColor : textColor, type: type, position: position, isImage: isImage)
+        toast = ToastView(msg: msg, font: font, textColor: textColor == .systemRed ? type?.bgColor : textColor, type: type, position: position)
         toast.translatesAutoresizingMaskIntoConstraints = false
     }
     

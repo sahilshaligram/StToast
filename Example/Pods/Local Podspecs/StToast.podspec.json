@@ -1,6 +1,6 @@
 {
   "name": "StToast",
-  "version": "0.1.2",
+  "version": "0.1.1",
   "summary": "Custom toast message with 3 default types",
   "description": "Toast message with plenty of customizations three position options on screen, three default types",
   "homepage": "https://github.com/sahilshaligram/StToast",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/sahilshaligram/StToast.git",
-    "tag": "0.1.2"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "11.0"
@@ -21,10 +21,5 @@
   "swift_versions": "4.2",
   "source_files": "StToast/Classes/**/*",
   "exclude_files": "StToast/Classes/*.plist",
-  "resource_bundles": {
-    "StToast": [
-      "StToast/Assets/*"
-    ]
-  },
   "swift_version": "4.2"
 }

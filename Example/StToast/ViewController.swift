@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  StToast
 //
-//  Created by neelpurohit on 09/15/2023.
-//  Copyright (c) 2023 neelpurohit. All rights reserved.
+//  Created by sahilthaker on 09/15/2023.
+//  Copyright (c) 2023 sahilthaker. All rights reserved.
 //
 
 import UIKit
@@ -29,10 +29,9 @@ class ViewController: UIViewController {
             backgroundColor: .black,
             textColor: .white,
             borderColor: .systemPurple,
-            type: .error,
+            type: .warning,
             position: .top,
-            delay: 1.5,
-            addImage: true
+            delay: 1.5
         ).show()
     }
 

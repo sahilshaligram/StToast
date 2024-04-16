@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'StToast' in project 'Pods' (no dependencies)
