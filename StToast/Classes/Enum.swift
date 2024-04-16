@@ -17,11 +17,11 @@ public enum ToastType {
     var image: UIImage {
         switch self {
         case .success:
-            return UIImage(resource: .icSuccess)
+            return UIImage(named: "ic_success") ?? UIImage()
         case .error:
-            return UIImage(resource: .icError)
+            return UIImage(named: "ic_error") ?? UIImage()
         case .warning:
-            return UIImage(resource: .icWarning)
+            return UIImage(named: "ic_warning") ?? UIImage()
         }
     }
     
