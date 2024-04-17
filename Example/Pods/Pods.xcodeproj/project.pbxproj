@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-<<<<<<< HEAD
 		19508FF4A12969B6C363FE08E3889886 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 366896C7633EB18C7FD3634F166181CE /* Extensions.swift */; };
 		1F09DEB0B7184D86A85F09365468CA9C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		258335151CA8BE0FF8105713D271EACA /* Enum.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB0132768F06920F832E98F91C8C49B0 /* Enum.swift */; };
@@ -18,41 +17,20 @@
 		9E991AF52520D890380EDC64E6E07756 /* Pods-StToast_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AF5775CF1BA6461418ECEE1C8F09F18 /* Pods-StToast_Tests-dummy.m */; };
 		C17066457E5885FA546BCFB48A813538 /* Pods-StToast_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CBC53E99F0856723ABCE8CA743F5D04A /* Pods-StToast_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9C8B4D9EF868112F843225460E5902B /* StToastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED53324268A389B13ED57F2CCE85F4B /* StToastView.swift */; };
-=======
-		0633A608D2803D4ACA1C486B656B805A /* Enum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4975E2007F863829A85CD2DF1323E3B8 /* Enum.swift */; };
-		1F09DEB0B7184D86A85F09365468CA9C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		468C64EF789CB7D466D1A08EE5E896AD /* StCustomToast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A238E278C1330C405DCE53CFCE81AF0 /* StCustomToast.swift */; };
-		5BC7C0AC90434B77137E591A480CB721 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		6B8CD2A16FD80745FC651057B34ABD9D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		8513044C0D1A39292D027C8212616720 /* Pods-StToast_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CD22E726FF2E7AE4A48DA5A2BC51D853 /* Pods-StToast_Example-dummy.m */; };
-		93B4BCEF6B18A33817A26732E89BDD9B /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3297C336ABB8C9E14A7DCDCAAA819E11 /* Extensions.swift */; };
-		9E991AF52520D890380EDC64E6E07756 /* Pods-StToast_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AF5775CF1BA6461418ECEE1C8F09F18 /* Pods-StToast_Tests-dummy.m */; };
-		C17066457E5885FA546BCFB48A813538 /* Pods-StToast_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CBC53E99F0856723ABCE8CA743F5D04A /* Pods-StToast_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DC0F76DE301CB5ECB9AABA9F4E54EC0B /* StToast-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B752FA07F2B0DB7FF47A24268C38FD58 /* StToast-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E00CC9CA229107677252B92560664259 /* StToast-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 61DF6A82FA64FD0D7B8995123A9C61A8 /* StToast-dummy.m */; };
->>>>>>> main
 		F2F6E591E525418E921AC38774ED09CF /* Pods-StToast_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 29975484691CDA5AAAAFA52F3ABBA6A9 /* Pods-StToast_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FB6D7038814DB85EE0DA23AF9F4DAD4D /* StToast-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 46B33EBD7CF46C4659BC06D9D0CE59C8 /* StToast-dummy.m */; };
 		FCA43C5761C94693ECCDB80AC23BDF78 /* StCustomToast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE00D680FAB4B5AF9854B8ED3148986 /* StCustomToast.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-<<<<<<< HEAD
 		5E3AEF8943CC6C015D6DF39EDBBC8EC3 /* PBXContainerItemProxy */ = {
-=======
-		7794E62C55CE126E3BCFD6883B270A9E /* PBXContainerItemProxy */ = {
->>>>>>> main
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 5675F739EB55152489ABB57F6D865793;
 			remoteInfo = "Pods-StToast_Example";
 		};
-<<<<<<< HEAD
 		8492A860DDCBAFC5E8C2A805AE80430F /* PBXContainerItemProxy */ = {
-=======
-		D79B0B4F2D75F46764BD9D3B497E946F /* PBXContainerItemProxy */ = {
->>>>>>> main
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -65,75 +43,42 @@
 		02DA7B6B1051E4B2270E2C482730271F /* Pods-StToast_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-StToast_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		05192761C641626D978CF8307BC177A4 /* Pods-StToast_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-StToast_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		07BF857D7B25D7C5D38086A172DA085C /* Pods-StToast_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-StToast_Example.debug.xcconfig"; sourceTree = "<group>"; };
-<<<<<<< HEAD
 		0AE00D680FAB4B5AF9854B8ED3148986 /* StCustomToast.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StCustomToast.swift; path = StToast/Classes/StCustomToast.swift; sourceTree = "<group>"; };
 		10AF6D56C9D285B772CD979178A51C80 /* StToast-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "StToast-prefix.pch"; sourceTree = "<group>"; };
 		1BCCDB49A09CEE2618E4AD6F48EF1F9D /* StToast.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = StToast.release.xcconfig; sourceTree = "<group>"; };
 		1ED53324268A389B13ED57F2CCE85F4B /* StToastView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StToastView.swift; path = StToast/Classes/StToastView.swift; sourceTree = "<group>"; };
-=======
->>>>>>> main
 		25DBD87E882C1630C2D9AA1B29EBE59B /* Pods-StToast_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-StToast_Tests-Info.plist"; sourceTree = "<group>"; };
 		2708FC08E5765AB47D2272F5CE6D6DBE /* Pods-StToast_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-StToast_Example.modulemap"; sourceTree = "<group>"; };
 		27BB24787BB2BBDA6C205C75F11D645A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		29975484691CDA5AAAAFA52F3ABBA6A9 /* Pods-StToast_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-StToast_Example-umbrella.h"; sourceTree = "<group>"; };
-		2B5D8DF84827C01FBBC1178765D1F4D8 /* StToast.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = StToast.podspec; sourceTree = "<group>"; tabWidth = 2; };
-		320B10F7E5195E6B9DE4A7489D5AFC42 /* StToast-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "StToast-prefix.pch"; sourceTree = "<group>"; };
-		3297C336ABB8C9E14A7DCDCAAA819E11 /* Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Extensions.swift; path = StToast/Classes/Extensions.swift; sourceTree = "<group>"; };
 		32CA372A8B2CAE68A48A5C3C13876ABF /* Pods-StToast_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-StToast_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		33EAF74987F9D6D7DC391511D046E94F /* Pods-StToast_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-StToast_Example"; path = Pods_StToast_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		366896C7633EB18C7FD3634F166181CE /* Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Extensions.swift; path = StToast/Classes/Extensions.swift; sourceTree = "<group>"; };
 		3AF5775CF1BA6461418ECEE1C8F09F18 /* Pods-StToast_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-StToast_Tests-dummy.m"; sourceTree = "<group>"; };
-<<<<<<< HEAD
 		46B33EBD7CF46C4659BC06D9D0CE59C8 /* StToast-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "StToast-dummy.m"; sourceTree = "<group>"; };
 		4FADAAFAA020D4890D7C58DAE8C9072F /* Pods-StToast_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-StToast_Example-frameworks.sh"; sourceTree = "<group>"; };
 		57B03236122B46FCA17013DDBC539B89 /* StToast-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "StToast-umbrella.h"; sourceTree = "<group>"; };
 		5B3EC2A8D35DADD6C189A88D3BD52F6E /* StToast.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = StToast.modulemap; sourceTree = "<group>"; };
-=======
-		4369DA73B2420F2E864330929651E38D /* StToast.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = StToast.debug.xcconfig; sourceTree = "<group>"; };
-		4975E2007F863829A85CD2DF1323E3B8 /* Enum.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Enum.swift; path = StToast/Classes/Enum.swift; sourceTree = "<group>"; };
-		4FADAAFAA020D4890D7C58DAE8C9072F /* Pods-StToast_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-StToast_Example-frameworks.sh"; sourceTree = "<group>"; };
-		5FFA499942E6487EFE73BAD098FAB4D7 /* StToast.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = StToast.modulemap; sourceTree = "<group>"; };
-		61DF6A82FA64FD0D7B8995123A9C61A8 /* StToast-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "StToast-dummy.m"; sourceTree = "<group>"; };
-		6A238E278C1330C405DCE53CFCE81AF0 /* StCustomToast.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StCustomToast.swift; path = StToast/Classes/StCustomToast.swift; sourceTree = "<group>"; };
->>>>>>> main
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		73FCD869A77C2F7EDBBDE5AC1AAD8FCF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		7B9C9883B5C5C37FF03C99E0BB3D60F7 /* Pods-StToast_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-StToast_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-<<<<<<< HEAD
-=======
-		80B8AFF34677A44678CF93941BEC61AF /* StToast.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = StToast.release.xcconfig; sourceTree = "<group>"; };
-		999F27865A79B764A4C4326CECC535B9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
->>>>>>> main
 		9A636D6E856BBE52F400A5D2B176F6CD /* Pods-StToast_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-StToast_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A18FB58A0E57C97B5F374DF67B45035B /* Pods-StToast_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-StToast_Tests.modulemap"; sourceTree = "<group>"; };
 		A7D180D925D2FE90E62CC08807FE157F /* Pods-StToast_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-StToast_Example.release.xcconfig"; sourceTree = "<group>"; };
-<<<<<<< HEAD
 		C1A1E15F62A77843EDEA3A1780E555DD /* Pods-StToast_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-StToast_Example-Info.plist"; sourceTree = "<group>"; };
 		CBC53E99F0856723ABCE8CA743F5D04A /* Pods-StToast_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-StToast_Tests-umbrella.h"; sourceTree = "<group>"; };
 		CD22E726FF2E7AE4A48DA5A2BC51D853 /* Pods-StToast_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-StToast_Example-dummy.m"; sourceTree = "<group>"; };
 		CF23B7B11E0C95AE463DE54264851E26 /* StToast.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = StToast.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-=======
-		B752FA07F2B0DB7FF47A24268C38FD58 /* StToast-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "StToast-umbrella.h"; sourceTree = "<group>"; };
-		C1A1E15F62A77843EDEA3A1780E555DD /* Pods-StToast_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-StToast_Example-Info.plist"; sourceTree = "<group>"; };
-		C42730641A33F57AED96955EDD60C159 /* StToast-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "StToast-Info.plist"; sourceTree = "<group>"; };
-		CBC53E99F0856723ABCE8CA743F5D04A /* Pods-StToast_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-StToast_Tests-umbrella.h"; sourceTree = "<group>"; };
-		CD22E726FF2E7AE4A48DA5A2BC51D853 /* Pods-StToast_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-StToast_Example-dummy.m"; sourceTree = "<group>"; };
->>>>>>> main
 		D6F2CF5076C68C45D6687FA7E6137391 /* StToast */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = StToast; path = StToast.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCC56286A8C9BBBC03CDD032F7673B38 /* StToast-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "StToast-Info.plist"; sourceTree = "<group>"; };
 		E957ED77E8D34D0A9DB7E611205734D9 /* Pods-StToast_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-StToast_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-<<<<<<< HEAD
 		FB0132768F06920F832E98F91C8C49B0 /* Enum.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Enum.swift; path = StToast/Classes/Enum.swift; sourceTree = "<group>"; };
 		FE5FFE1EBBAE1473B8FE3330B93AF41A /* StToast.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = StToast.debug.xcconfig; sourceTree = "<group>"; };
-=======
-		F6C4044F8A358BF6312CCD66C9A3166C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
->>>>>>> main
 		FEFB95FE7F147F9BC0E5B023C9281601 /* Pods-StToast_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-StToast_Tests"; path = Pods_StToast_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-<<<<<<< HEAD
 		330092113701A795F1E808A72D7CDFB0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -142,8 +87,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-=======
->>>>>>> main
 		3E0DF9144334036FC6E5221DFA674150 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -152,15 +95,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		575EA3C756307394116155275C1844D0 /* Frameworks */ = {
+		72D33BE328D3A2531AD6731604134EB2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BC7C0AC90434B77137E591A480CB721 /* Foundation.framework in Frameworks */,
+				1F09DEB0B7184D86A85F09365468CA9C /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-<<<<<<< HEAD
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -178,19 +120,6 @@
 			path = ../..;
 			sourceTree = "<group>";
 		};
-=======
-		72D33BE328D3A2531AD6731604134EB2 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				1F09DEB0B7184D86A85F09365468CA9C /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXFrameworksBuildPhase section */
-
-/* Begin PBXGroup section */
->>>>>>> main
 		1FB7FDFE1446E7745074B3B4CCA9EC19 /* Pods-StToast_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -224,7 +153,6 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-<<<<<<< HEAD
 		629B0AEB2E2B1CEA59DBC4D62DEF1D0E /* Pod */ = {
 			isa = PBXGroup;
 			children = (
@@ -255,47 +183,9 @@
 				57B03236122B46FCA17013DDBC539B89 /* StToast-umbrella.h */,
 				FE5FFE1EBBAE1473B8FE3330B93AF41A /* StToast.debug.xcconfig */,
 				1BCCDB49A09CEE2618E4AD6F48EF1F9D /* StToast.release.xcconfig */,
-=======
-		6D36757E2BB2A6799074A33547CBBC71 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				33EAF74987F9D6D7DC391511D046E94F /* Pods-StToast_Example */,
-				FEFB95FE7F147F9BC0E5B023C9281601 /* Pods-StToast_Tests */,
-				D6F2CF5076C68C45D6687FA7E6137391 /* StToast */,
->>>>>>> main
 			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		9BE496DB5A7EB53D8F8B7EF5C0268DB6 /* StToast */ = {
-			isa = PBXGroup;
-			children = (
-				4975E2007F863829A85CD2DF1323E3B8 /* Enum.swift */,
-				3297C336ABB8C9E14A7DCDCAAA819E11 /* Extensions.swift */,
-				6A238E278C1330C405DCE53CFCE81AF0 /* StCustomToast.swift */,
-				A01B525A220F86EFBF3EACF2538E19A5 /* Pod */,
-				CEA0E0A8B4738DE5840FB7B476020A7F /* Support Files */,
-			);
-			name = StToast;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		A01B525A220F86EFBF3EACF2538E19A5 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				F6C4044F8A358BF6312CCD66C9A3166C /* LICENSE */,
-				999F27865A79B764A4C4326CECC535B9 /* README.md */,
-				2B5D8DF84827C01FBBC1178765D1F4D8 /* StToast.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		C45BC1EB1F4ADF1780028CA89856984F /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				9BE496DB5A7EB53D8F8B7EF5C0268DB6 /* StToast */,
-			);
-			name = "Development Pods";
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/StToast";
 			sourceTree = "<group>";
 		};
 		8B6FD23F5A2365CFAED2E086B07A2DDD /* Development Pods */ = {
@@ -323,30 +213,11 @@
 			path = "Target Support Files/Pods-StToast_Example";
 			sourceTree = "<group>";
 		};
-		CEA0E0A8B4738DE5840FB7B476020A7F /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				5FFA499942E6487EFE73BAD098FAB4D7 /* StToast.modulemap */,
-				61DF6A82FA64FD0D7B8995123A9C61A8 /* StToast-dummy.m */,
-				C42730641A33F57AED96955EDD60C159 /* StToast-Info.plist */,
-				320B10F7E5195E6B9DE4A7489D5AFC42 /* StToast-prefix.pch */,
-				B752FA07F2B0DB7FF47A24268C38FD58 /* StToast-umbrella.h */,
-				4369DA73B2420F2E864330929651E38D /* StToast.debug.xcconfig */,
-				80B8AFF34677A44678CF93941BEC61AF /* StToast.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/StToast";
-			sourceTree = "<group>";
-		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-<<<<<<< HEAD
 				8B6FD23F5A2365CFAED2E086B07A2DDD /* Development Pods */,
-=======
-				C45BC1EB1F4ADF1780028CA89856984F /* Development Pods */,
->>>>>>> main
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				6D36757E2BB2A6799074A33547CBBC71 /* Products */,
 				24CF078340C3340AC51D981541D0E114 /* Targets Support Files */,
@@ -372,19 +243,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-<<<<<<< HEAD
 		A5658A2268568DCF2B5E84AD1E235707 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				6A678FD9A85B1DDBB8AA26BE34C08949 /* StToast-umbrella.h in Headers */,
-=======
-		8244C32AEEA57DB2CE117A2A436053E4 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				DC0F76DE301CB5ECB9AABA9F4E54EC0B /* StToast-umbrella.h in Headers */,
->>>>>>> main
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,11 +274,7 @@
 			buildRules = (
 			);
 			dependencies = (
-<<<<<<< HEAD
 				8BB47B7C2CFD1B88436B4044A217271F /* PBXTargetDependency */,
-=======
-				B36322000A6E11C75086A26583954E9E /* PBXTargetDependency */,
->>>>>>> main
 			);
 			name = "Pods-StToast_Example";
 			productName = Pods_StToast_Example;
@@ -434,11 +293,7 @@
 			buildRules = (
 			);
 			dependencies = (
-<<<<<<< HEAD
 				64A3960B160B9C8BFDED30BC064A0847 /* PBXTargetDependency */,
-=======
-				AF2996D13E75DE8AF879FCDDE047A40A /* PBXTargetDependency */,
->>>>>>> main
 			);
 			name = "Pods-StToast_Tests";
 			productName = Pods_StToast_Tests;
@@ -447,21 +302,12 @@
 		};
 		9B9F829D9A305BE09208192E0FC804EB /* StToast */ = {
 			isa = PBXNativeTarget;
-<<<<<<< HEAD
 			buildConfigurationList = CE1936748E306C0D8167725CC84F62C4 /* Build configuration list for PBXNativeTarget "StToast" */;
 			buildPhases = (
 				A5658A2268568DCF2B5E84AD1E235707 /* Headers */,
 				5D56F46576820D1E30A3034613F00C6E /* Sources */,
 				330092113701A795F1E808A72D7CDFB0 /* Frameworks */,
 				6D96935E109B6D253C74D568CAEB0811 /* Resources */,
-=======
-			buildConfigurationList = D742CE2B68E77D37BDF3AA257D305C27 /* Build configuration list for PBXNativeTarget "StToast" */;
-			buildPhases = (
-				8244C32AEEA57DB2CE117A2A436053E4 /* Headers */,
-				078372D5BC20CD7C974CABB4101CD491 /* Sources */,
-				575EA3C756307394116155275C1844D0 /* Frameworks */,
-				EF53A37C2B6C81EB600671F74DA764F4 /* Resources */,
->>>>>>> main
 			);
 			buildRules = (
 			);
@@ -478,8 +324,8 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1300;
-				LastUpgradeCheck = 1300;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -509,7 +355,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-<<<<<<< HEAD
 		6D96935E109B6D253C74D568CAEB0811 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -517,8 +362,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-=======
->>>>>>> main
 		A63912D48183609DA382ECD93DC52939 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -526,7 +369,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-<<<<<<< HEAD
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -539,26 +381,6 @@
 				FCA43C5761C94693ECCDB80AC23BDF78 /* StCustomToast.swift in Sources */,
 				FB6D7038814DB85EE0DA23AF9F4DAD4D /* StToast-dummy.m in Sources */,
 				D9C8B4D9EF868112F843225460E5902B /* StToastView.swift in Sources */,
-=======
-		EF53A37C2B6C81EB600671F74DA764F4 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXResourcesBuildPhase section */
-
-/* Begin PBXSourcesBuildPhase section */
-		078372D5BC20CD7C974CABB4101CD491 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0633A608D2803D4ACA1C486B656B805A /* Enum.swift in Sources */,
-				93B4BCEF6B18A33817A26732E89BDD9B /* Extensions.swift in Sources */,
-				468C64EF789CB7D466D1A08EE5E896AD /* StCustomToast.swift in Sources */,
-				E00CC9CA229107677252B92560664259 /* StToast-dummy.m in Sources */,
->>>>>>> main
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -581,7 +403,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-<<<<<<< HEAD
 		64A3960B160B9C8BFDED30BC064A0847 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-StToast_Example";
@@ -593,32 +414,13 @@
 			name = StToast;
 			target = 9B9F829D9A305BE09208192E0FC804EB /* StToast */;
 			targetProxy = 8492A860DDCBAFC5E8C2A805AE80430F /* PBXContainerItemProxy */;
-=======
-		AF2996D13E75DE8AF879FCDDE047A40A /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-StToast_Example";
-			target = 5675F739EB55152489ABB57F6D865793 /* Pods-StToast_Example */;
-			targetProxy = 7794E62C55CE126E3BCFD6883B270A9E /* PBXContainerItemProxy */;
-		};
-		B36322000A6E11C75086A26583954E9E /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = StToast;
-			target = 9B9F829D9A305BE09208192E0FC804EB /* StToast */;
-			targetProxy = D79B0B4F2D75F46764BD9D3B497E946F /* PBXContainerItemProxy */;
->>>>>>> main
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-<<<<<<< HEAD
 		1D038DD9A8EF5D3A2AF25D6BB786C02B /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1BCCDB49A09CEE2618E4AD6F48EF1F9D /* StToast.release.xcconfig */;
-=======
-		4F05F6730CDC60F1CD7D53E95696C916 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 05192761C641626D978CF8307BC177A4 /* Pods-StToast_Tests.release.xcconfig */;
->>>>>>> main
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -629,7 +431,6 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-<<<<<<< HEAD
 				GCC_PREFIX_HEADER = "Target Support Files/StToast/StToast-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/StToast/StToast-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -638,25 +439,11 @@
 				MODULEMAP_FILE = "Target Support Files/StToast/StToast.modulemap";
 				PRODUCT_MODULE_NAME = StToast;
 				PRODUCT_NAME = StToast;
-=======
-				INFOPLIST_FILE = "Target Support Files/Pods-StToast_Tests/Pods-StToast_Tests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-StToast_Tests/Pods-StToast_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
->>>>>>> main
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
-<<<<<<< HEAD
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -691,8 +478,6 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-=======
->>>>>>> main
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -787,47 +572,13 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
 		};
-<<<<<<< HEAD
-=======
-		818A5DF23ADD2702D78C1FB805DCF02A /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 80B8AFF34677A44678CF93941BEC61AF /* StToast.release.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/StToast/StToast-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/StToast/StToast-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/StToast/StToast.modulemap";
-				PRODUCT_MODULE_NAME = StToast;
-				PRODUCT_NAME = StToast;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
->>>>>>> main
 		8FF199D7024320D09B8CBED3ECFCF931 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 07BF857D7B25D7C5D38086A172DA085C /* Pods-StToast_Example.debug.xcconfig */;
@@ -861,15 +612,9 @@
 			};
 			name = Debug;
 		};
-<<<<<<< HEAD
 		B77BEE4FEA25229CB0771FC695A71D33 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A7D180D925D2FE90E62CC08807FE157F /* Pods-StToast_Example.release.xcconfig */;
-=======
-		A07FBF3AA2EE0B25B77514513F6DA5A6 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4369DA73B2420F2E864330929651E38D /* StToast.debug.xcconfig */;
->>>>>>> main
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -883,7 +628,6 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-StToast_Example/Pods-StToast_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-<<<<<<< HEAD
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
@@ -893,13 +637,6 @@
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-=======
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/StToast/StToast.modulemap";
-				PRODUCT_MODULE_NAME = StToast;
-				PRODUCT_NAME = StToast;
->>>>>>> main
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -909,15 +646,9 @@
 			};
 			name = Release;
 		};
-<<<<<<< HEAD
 		CC9E900EB8CAE9030B6D1D945BDAFDCF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FE5FFE1EBBAE1473B8FE3330B93AF41A /* StToast.debug.xcconfig */;
-=======
-		B77BEE4FEA25229CB0771FC695A71D33 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = A7D180D925D2FE90E62CC08807FE157F /* Pods-StToast_Example.release.xcconfig */;
->>>>>>> main
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -928,7 +659,6 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-<<<<<<< HEAD
 				GCC_PREFIX_HEADER = "Target Support Files/StToast/StToast-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/StToast/StToast-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -937,29 +667,15 @@
 				MODULEMAP_FILE = "Target Support Files/StToast/StToast.modulemap";
 				PRODUCT_MODULE_NAME = StToast;
 				PRODUCT_NAME = StToast;
-=======
-				INFOPLIST_FILE = "Target Support Files/Pods-StToast_Example/Pods-StToast_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-StToast_Example/Pods-StToast_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
->>>>>>> main
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
 		D299434AB35E7FD6F7921C8EF24742FF /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -1057,19 +773,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-<<<<<<< HEAD
 		CE1936748E306C0D8167725CC84F62C4 /* Build configuration list for PBXNativeTarget "StToast" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CC9E900EB8CAE9030B6D1D945BDAFDCF /* Debug */,
 				1D038DD9A8EF5D3A2AF25D6BB786C02B /* Release */,
-=======
-		D742CE2B68E77D37BDF3AA257D305C27 /* Build configuration list for PBXNativeTarget "StToast" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				A07FBF3AA2EE0B25B77514513F6DA5A6 /* Debug */,
-				818A5DF23ADD2702D78C1FB805DCF02A /* Release */,
->>>>>>> main
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

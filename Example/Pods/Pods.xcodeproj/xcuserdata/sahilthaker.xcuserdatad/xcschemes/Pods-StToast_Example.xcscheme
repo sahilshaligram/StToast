@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1300"
+   LastUpgradeVersion = "1500"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9B9F829D9A305BE09208192E0FC804EB"
-               BuildableName = "StToast.framework"
-               BlueprintName = "StToast"
+               BlueprintIdentifier = "5675F739EB55152489ABB57F6D865793"
+               BuildableName = "Pods_StToast_Example.framework"
+               BlueprintName = "Pods-StToast_Example"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

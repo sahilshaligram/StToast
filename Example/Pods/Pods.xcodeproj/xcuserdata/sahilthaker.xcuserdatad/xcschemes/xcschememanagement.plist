@@ -4,28 +4,23 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-StToast_Example.xcscheme_^#shared#^_</key>
+		<key>Pods-StToast_Example.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>2</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
-		<key>Pods-StToast_Tests.xcscheme_^#shared#^_</key>
+		<key>Pods-StToast_Tests.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>3</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
-<<<<<<< HEAD
 		<key>StToast.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
-=======
-		<key>StToast.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
->>>>>>> main
 		</dict>
 	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict/>
 </dict>
 </plist>
