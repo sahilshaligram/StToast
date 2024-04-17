@@ -1,5 +1,9 @@
 PODS:
+<<<<<<< HEAD
   - StToast (0.1.1)
+=======
+  - StToast (0.1.0)
+>>>>>>> main
 
 DEPENDENCIES:
   - StToast (from `../`)
@@ -9,8 +13,12 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
+<<<<<<< HEAD
   StToast: 14f6f5055bf4ecb8af8de786e808ee3ec336845f
+=======
+  StToast: d6b5f3d55aba8897dd3d462586cdfbb4e61dfe09
+>>>>>>> main
 
 PODFILE CHECKSUM: 6ef888d9be7df0ce093371fb8a9a7415fd4bb545
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.12.1

@@ -1,6 +1,10 @@
 {
   "name": "StToast",
+<<<<<<< HEAD
   "version": "0.1.1",
+=======
+  "version": "0.1.0",
+>>>>>>> main
   "summary": "Custom toast message with 3 default types",
   "description": "Toast message with plenty of customizations three position options on screen, three default types",
   "homepage": "https://github.com/sahilshaligram/StToast",
@@ -13,7 +17,11 @@
   },
   "source": {
     "git": "https://github.com/sahilshaligram/StToast.git",
+<<<<<<< HEAD
     "tag": "0.1.1"
+=======
+    "tag": "0.1.0"
+>>>>>>> main
   },
   "platforms": {
     "ios": "11.0"
