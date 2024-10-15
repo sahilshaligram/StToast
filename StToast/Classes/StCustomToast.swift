@@ -3,7 +3,6 @@ import UIKit
 
 public class StCustomToast {
     
-    //MARK: - Variables -
     let controller: UIViewController!
     let type: ToastType!
     let position: ToastPosition!
@@ -20,18 +19,29 @@ public class StCustomToast {
     
     
     //MARK: - Initialize the class -
-    public init(controller: UIViewController!, msg: String!, font: UIFont? = .systemFont(ofSize: 18), backgroundColor: UIColor? = .clear, textColor: UIColor? = .systemRed, borderColor: UIColor? = .systemRed, type: ToastType? = .error, position: ToastPosition? = .top, delay: TimeInterval? = 1) {
-        self.controller = controller
+    /// - Parameter message: Set the message to be displayed in the toast.
+    /// - Parameter font - optional: You can set any custom font you are using for your app (default is systemFont(ofSize: 18)).
+    /// - Parameter backgroundColor - optional: You can yout desired backgroundColor (default is clear).
+    /// - Parameter textColor - optional: Custom text color for your toast message (default is the color from toast selected type).
+    /// - Parameter borderColor - optional: Custom border color can be set on this property (default is same as the textColor).
+    /// - Parameter type - optional: Default added toast style types options - (error, warning, success) (default set type is error).
+    /// - Parameter position - optional: Default position options to show toast on the screen options - (top, center, bottom) (default is top).
+    /// - Parameter delay - optional: custom time interval for the toast to keep displayed on screen (default is 1)
+    public init(message: String!, font: UIFont? = .systemFont(ofSize: 18), backgroundColor: UIColor? = .clear, textColor: UIColor? = .systemRed, borderColor: UIColor? = .systemRed, type: ToastType? = .error, position: ToastPosition? = .top, delay: TimeInterval? = 1) {
+        self.controller = UIApplication.shared.delegate?.window??.rootViewController
         self.type = type
         self.position = position
         self.backgroundColor = backgroundColor == .systemRed ? type?.bgColor : backgroundColor
         self.borderColor = borderColor == .systemRed ? type?.bgColor : borderColor
         self.delay = delay
-        toast = ToastView(msg: msg, font: font, textColor: textColor == .systemRed ? type?.bgColor : textColor, type: type, position: position)
+        toast = ToastView(message: message, font: font, textColor: textColor == .systemRed ? type?.bgColor : textColor, type: type, position: position)
         toast.translatesAutoresizingMaskIntoConstraints = false
     }
     
+    
     //MARK: - Set the view on screen -
+    /// - Starts to set constraints to the toast.
+    /// - Prepares the initial toast for animation.
     func setConstraints() {
         controller.view.addSubview(toast)
         toast.backgroundColor = backgroundColor
@@ -48,23 +58,24 @@ public class StCustomToast {
         containerTrailing.isActive = true
         containerHeight = toast.heightAnchor.constraint(equalToConstant: 55)
         containerHeight.isActive = true
-        if position == .top {
-            if #available(iOS 11.0, *) {
-                containerTop = toast.topAnchor.constraint(equalTo: controller.view.safeAreaLayoutGuide.topAnchor, constant: -120)
-            }
+        switch position {
+        case .top:
+            containerTop = toast.topAnchor.constraint(equalTo: controller.view.safeAreaLayoutGuide.topAnchor, constant: -120)
             containerTop.isActive = true
-        } else if position == .center {
+        case .center:
             containerYCenter = toast.centerYAnchor.constraint(equalTo: controller.view.centerYAnchor, constant: 0)
             containerYCenter.isActive = true
-        } else {
-            if #available(iOS 11.0, *) {
-                containerBottom = toast.bottomAnchor.constraint(equalTo: controller.view.safeAreaLayoutGuide.bottomAnchor, constant: 120)
-            }
+        case .bottom:
+            containerBottom = toast.bottomAnchor.constraint(equalTo: controller.view.safeAreaLayoutGuide.bottomAnchor, constant: 120)
             containerBottom.isActive = true
+        default:
+            containerTop = toast.topAnchor.constraint(equalTo: controller.view.safeAreaLayoutGuide.topAnchor, constant: -120)
+            containerTop.isActive = true
         }
     }
     
     //MARK: - Animate the toast -
+    /// - Animates the toast to make it slide from the selected direction.
     func animateInOut() {
         if self.position == .top {
             self.containerTop.constant += 150
@@ -88,6 +99,7 @@ public class StCustomToast {
     }
     
     //MARK: - Initialize the toast Animation -
+    /// - This will be called by the developer to decide when to show the toast.
     public func show() {
         if position != .center {
             UIView.animate(withDuration: 0.5, delay: 0.0, options: .curveEaseInOut) {

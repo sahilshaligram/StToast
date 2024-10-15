@@ -1,0 +1,52 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e985513551212168265c1a9a5de6067763e"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9845f8d371ec3f4881bd4acbb37fb96b84"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e982053078773ece7389d9199e7dbbf9684"
+    }
+  ],
+  "containerPath" : "/Users/sahilthaker/Projects/Libs/git/StToast/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/sahilthaker/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sahilthaker/Library/Developer/Xcode/DerivedData/Pods-aygftwoujflwulgibqwkwzckglpf/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sahilthaker/Library/Developer/Xcode/DerivedData/Pods-aygftwoujflwulgibqwkwzckglpf/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

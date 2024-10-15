@@ -1,0 +1,10 @@
+framework module StToast {
+  umbrella header "StToast-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module StToast.__Swift {
+  exclude header "StToast-Swift.h"
+}
