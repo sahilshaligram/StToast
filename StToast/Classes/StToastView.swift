@@ -12,7 +12,7 @@ class ToastView: UIView {
     
     //MARK: - Variables -
     let lbl: UILabel!
-    let msg: String!
+    let message: String!
     let type: ToastType!
     let position: ToastPosition!
     let font: UIFont!
@@ -20,9 +20,9 @@ class ToastView: UIView {
     
     
     //MARK: - Initialize the toast view -
-    init(msg: String!, font: UIFont!, textColor: UIColor!, type: ToastType!, position: ToastPosition!) {
+    init(message: String!, font: UIFont!, textColor: UIColor!, type: ToastType!, position: ToastPosition!) {
         self.lbl = UILabel()
-        self.msg = msg
+        self.message = message
         self.type = type
         self.position = position
         self.font = font
@@ -38,7 +38,7 @@ class ToastView: UIView {
     
     //MARK: - Set the message in toast -
     func setLabel() {
-        lbl.text = msg
+        lbl.text = message
         lbl.font = font
         lbl.textAlignment = .center
         lbl.textColor = textColor

@@ -23,8 +23,7 @@ class ViewController: UIViewController {
     
     @IBAction func showToastTapped(_ sender: UIButton) {
         StCustomToast(
-            controller: self,
-            msg: "StToast Testing!!!!!",
+            message: "StToast Testing!!!!!",
             font: .systemFont(ofSize: 18),
             backgroundColor: .black,
             textColor: .white,

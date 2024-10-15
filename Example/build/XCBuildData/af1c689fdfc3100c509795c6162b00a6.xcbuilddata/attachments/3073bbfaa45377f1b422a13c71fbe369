@@ -1,0 +1,30 @@
+{
+  "" : {
+    "const-values" : "/Users/sahilthaker/Projects/Libs/git/StToast/Example/build/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/StToast-master.swiftconstvalues",
+    "dependencies" : "/Users/sahilthaker/Projects/Libs/git/StToast/Example/build/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/StToast-master.d",
+    "diagnostics" : "/Users/sahilthaker/Projects/Libs/git/StToast/Example/build/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/StToast-master.dia",
+    "emit-module-dependencies" : "/Users/sahilthaker/Projects/Libs/git/StToast/Example/build/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/StToast-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sahilthaker/Projects/Libs/git/StToast/Example/build/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/StToast-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sahilthaker/Projects/Libs/git/StToast/Example/build/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/StToast-master.swiftdeps"
+  },
+  "/Users/sahilthaker/Projects/Libs/git/StToast/StToast/Classes/Enum.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/Enum.o",
+    "llvm-bc" : "/Users/sahilthaker/Projects/Libs/git/StToast/Example/build/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/Enum.bc",
+    "object" : "/Users/sahilthaker/Projects/Libs/git/StToast/Example/build/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/Enum.o"
+  },
+  "/Users/sahilthaker/Projects/Libs/git/StToast/StToast/Classes/Extensions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/Extensions.o",
+    "llvm-bc" : "/Users/sahilthaker/Projects/Libs/git/StToast/Example/build/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/Extensions.bc",
+    "object" : "/Users/sahilthaker/Projects/Libs/git/StToast/Example/build/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/Extensions.o"
+  },
+  "/Users/sahilthaker/Projects/Libs/git/StToast/StToast/Classes/StCustomToast.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/StCustomToast.o",
+    "llvm-bc" : "/Users/sahilthaker/Projects/Libs/git/StToast/Example/build/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/StCustomToast.bc",
+    "object" : "/Users/sahilthaker/Projects/Libs/git/StToast/Example/build/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/StCustomToast.o"
+  },
+  "/Users/sahilthaker/Projects/Libs/git/StToast/StToast/Classes/StToastView.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/StToastView.o",
+    "llvm-bc" : "/Users/sahilthaker/Projects/Libs/git/StToast/Example/build/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/StToastView.bc",
+    "object" : "/Users/sahilthaker/Projects/Libs/git/StToast/Example/build/Pods.build/Release-iphoneos/StToast.build/Objects-normal/arm64/StToastView.o"
+  }
+}
